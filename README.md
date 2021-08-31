@@ -1,2 +1,2 @@
 # olympic-data-analysis
-![](imag/olympic.gif)
+![](img/olympic.gif)
